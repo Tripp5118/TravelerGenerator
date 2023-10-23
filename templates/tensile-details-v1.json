@@ -1,0 +1,32 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "tensile-details-v1.json"
+    },
+    "data": {
+        "Completed By": "",
+        "End Date": "",
+        "Modulus Check": {
+            "Force Rate": 0,
+            "Max Force": 0,
+            "Max Stress": 0
+        },
+        "Parent ID": "",
+        "Results": {
+            "Elastic Modulus": 0,
+            "Elongation": 0,
+            "Maximum \u22022\u03c3/\u2202\u03b52": 0,
+            "Ultimate Tensile Strength": 0,
+            "Yield Strength": 0
+        },
+        "Sample Dimensions": {
+            "length": 0,
+            "thickness": 0,
+            "width": 0
+        },
+        "Sample ID": "",
+        "Start Date": "",
+        "Time Spent": 0,
+        "path": "Tensile"
+    }
+}

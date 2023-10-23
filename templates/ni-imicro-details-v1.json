@@ -1,0 +1,36 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "ni-imicro-details-v1.json"
+    },
+    "data": {
+        "Indentation Date": "",
+        "Operator": "",
+        "Parent ID": "",
+        "Sample ID": "",
+        "Sample Poisson Ratio": "",
+        "iMicro Indenter": {
+            "Depth to End": 0,
+            "Depth to Start": 0,
+            "Device Used": "iMicro",
+            "Hold Max Load Time": 0,
+            "Indenter Tip Number": "",
+            "Load to End": 0,
+            "Load to Start": 0,
+            "Number of Indents": 0,
+            "Strain Rates": [
+                {
+                    "Strain Rate": 0
+                }
+            ],
+            "Surface Approach Distance": 0,
+            "Surface Approach Velocity": 0,
+            "Target CSM Frequency": 0,
+            "Target Depth": 0,
+            "Target Dynamic Displacement": 0,
+            "Target Load": 0,
+            "Tip Cal Date": ""
+        },
+        "path": "NI"
+    }
+}

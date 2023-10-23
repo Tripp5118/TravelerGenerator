@@ -1,0 +1,192 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "ded-traveler-v1.json"
+    },
+    "data": {
+        "Material Composition": [
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            },
+            {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Sample ID": "",
+                "Sum": "0",
+                "V": 0
+            }
+        ],
+        "Sample ID": [
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            },
+            {
+                "Prod. Batch": "",
+                "Production Location & Physical Sample Number": "",
+                "Unique Code": "",
+                "VAM or DED": "",
+                "Year and Month": ""
+            }
+        ],
+        "Tasks": {
+            "3D Printing": {
+                "Operation Sequence": 10,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            },
+            "Cut - Mounting - Grinding": {
+                "Operation Sequence": 20,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            },
+            "EDS and EBSD": {
+                "Operation Sequence": 60,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            },
+            "Microhardness": {
+                "Operation Sequence": 50,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            },
+            "Polishing": {
+                "Operation Sequence": 30,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            },
+            "XRD": {
+                "Operation Sequence": 40,
+                "Completed By": "",
+                "Date": "",
+                "Notes": "",
+                "Time Spent": ""
+            }
+        }
+    }
+}

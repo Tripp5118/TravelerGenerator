@@ -1,0 +1,40 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "xrd-details-v1.json"
+    },
+    "data": {
+        "Completed By": "",
+        "End Date": "",
+        "Parent ID": "",
+        "Phases Information": [
+            {
+                "&#945;": "",
+                "&#946;": "",
+                "&#947;": "",
+                "Structure": "",
+                "a": "",
+                "b": "",
+                "c": ""
+            }
+        ],
+        "Sample ID": "",
+        "Start Date": "",
+        "Time Spent": 0,
+        "XRD Process Overview": {
+            "Beam Amperage": 40,
+            "Beam Voltage": 40,
+            "Collimator": 1,
+            "Distance": 19.96,
+            "Frames": 3,
+            "Phi": 0,
+            "Psi": 0,
+            "Scan Pattern": "XY",
+            "Scan Type": "Coupled",
+            "Theta": 18.5,
+            "Theta Shift per Frame": 16.7,
+            "Time per Frame": 600
+        },
+        "path": "XRD"
+    }
+}

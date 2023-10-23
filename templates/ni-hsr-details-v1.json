@@ -1,0 +1,28 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "ni-hsr-details-v1.json"
+    },
+    "data": {
+        "Date": "",
+        "File Upload": [
+            {
+                "file": ""
+            }
+        ],
+        "High Strain Rate Indenter": {
+            "Data Frequency": 0,
+            "Device": "",
+            "Indenter Tip Number": 0,
+            "Number of Indents": 0,
+            "Operator": "",
+            "Target Depth": 0,
+            "Tip Cal Date": ""
+        },
+        "Notes": "",
+        "Parent ID": "",
+        "Sample ID": "",
+        "Sample Poisson Ratio": "",
+        "path": "HSR"
+    }
+}

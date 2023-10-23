@@ -1,0 +1,39 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "lipit-details-v1.json"
+    },
+    "data": {
+        "Experiment Information": {
+            "Camera Used": "SIMX",
+            "Captured Frames": 0,
+            "Experiment Time": 0,
+            "Operator": "",
+            "Projectile Diameter": 0,
+            "Projectile Materials": "Al2O3",
+            "Time Interval": 0
+        },
+        "File Upload": [
+            {
+                "file": ""
+            }
+        ],
+        "LIPIT End Date": "",
+        "LIPIT Start Date": "",
+        "LIPIT Test Information": [
+            {
+                "Confocal": false,
+                "Coordination": "",
+                "Impact Velocity": "",
+                "OM After": false,
+                "OM Before": false,
+                "SEM": false,
+                "Test Number": 0
+            }
+        ],
+        "Notes": "",
+        "Parent ID": "",
+        "Sample ID": "",
+        "path": "LIPIT"
+    }
+}

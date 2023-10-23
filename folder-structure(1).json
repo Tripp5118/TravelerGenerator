@@ -1,0 +1,862 @@
+{
+    "variables": {
+        "@prefix": "AAA",
+        "@batch": "A"
+    },
+    "structure": {
+        "@prefix": {
+            "DED": {
+                "@batch": {
+                    "@prefix01-@prefix08": {
+                        "ded-traveler-v1.json": null,
+                        "@prefix01": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix02": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix03": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix04": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix05": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix06": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix07": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix08": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        }
+                    },
+                    "@prefix09-@prefix16": {
+                        "ded-traveler-v1.json": null,
+                        "@prefix09": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix11": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix12": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix13": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix14": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix15": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        },
+                        "@prefix16": {
+                            "C01": {
+                                "XRD":{
+                                    "xrd-details-v1.json": null
+                                },
+                                "EDS": {},
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                },
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "VAM": {
+                "@batch": {
+                    "@prefix01": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix02": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix03": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix06": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix07": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix08": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix11": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix12": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix13": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix15": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "@prefix16": {
+                        "T01": {
+                            "vam-traveler-v1.json": null,
+                            "vam-synthesis-details-v1.json": null,
+                            "vam-processing-details-v1.json": null,
+                            "T02": {
+                                "SEM": {},
+                                "XRD": {
+                                    "xrd-details-v1.json": null
+                                }
+                            },
+                            "T03": {
+                                "Microhardness": {}
+                            },
+                            "T04": {
+                                "HSR": {
+                                    "ni-hsr-details-v1.json": null
+                                },
+                                "NI": {
+                                    "ni-imicro-details-v1.json": null
+                                }
+                            },
+                            "T05": {
+                                "LIPIT": {
+                                    "lipit-details-v1.json": null
+                                }
+                            },
+                            "T06": {
+                                "T08": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T09": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            },
+                            "T07": {
+                                "T10": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                },
+                                "T11": {
+                                    "Tensile": {
+                                        "tensile-details-v1.json": null
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

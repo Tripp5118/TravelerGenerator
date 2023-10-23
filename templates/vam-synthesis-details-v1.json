@@ -1,0 +1,74 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "vam-synthesis-details-v1.json"
+    },
+    "data": {
+        "Arc Melting": {
+            " ": {
+                "Completed By": "",
+                "Finish Date": "",
+                "Start Date": "",
+                "Time Spent": 0
+            },
+            "  ": {
+                "Argon Pressure": "850-900",
+                "Diffusion": "Before Each Melt",
+                "Ingot Location": 0,
+                "Initial Purging Times": 3,
+                "Vacuum Before Melt": 5e-05
+            },
+            "   ": {
+                "Final Ingot Mass": 0,
+                "Mass Loss": 0
+            },
+            "3 Part Sections": {
+                "1": 0,
+                "2": 0,
+                "3": 0
+            },
+            "Full Ingot": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0
+            }
+        },
+        "Material Preparation": {
+            "": {
+                "Completed By": "",
+                "Finish Date": "",
+                "Start Date": "",
+                "Time Spent": 0
+            },
+            "Target Mass": {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Total": "0",
+                "V": 0
+            },
+            "Weighed Mass": {
+                "Al": 0,
+                "Co": 0,
+                "Cr": 0,
+                "Fe": 0,
+                "Ni": 0,
+                "Total": "0",
+                "V": 0
+            }
+        },
+        "Sample ID": {
+            "Prod. Batch": "",
+            "Production Location & Physical Sample Number": "",
+            "Unique Code": "",
+            "VAM or DED": "",
+            "Year & Month": ""
+        }
+    }
+}

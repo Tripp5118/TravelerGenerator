@@ -1,0 +1,65 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "vam-processing-details-v1.json"
+    },
+    "data": {
+        "Forging": {
+            "Ingot Condition": {
+                "Soak Time": 0,
+                "Temperature": 0
+            },
+            "Ingot Dimensions After": {
+                "Length": 0,
+                "Thickness": 0,
+                "Thickness Reduction": 0,
+                "Width": 0
+            },
+            "Ingot Dimensions Before": {
+                "Length": 0,
+                "Thickness": 0,
+                "Width": 0
+            },
+            "Maximum Load": [
+                {
+                    "Maximum Load Step": 0
+                }
+            ],
+            "Press Temperature": 0,
+            "Process Overview": {
+                "Completed By": "",
+                "Finish Date": "",
+                "Start Date": "",
+                "Time Spent": 0
+            }
+        },
+        "Homogenization": {
+            "Process Overview": {
+                "Completed By": "",
+                "Finish Date": "",
+                "Start Date": "",
+                "Time Spent": 0
+            },
+            "Purging Sequence Pressure": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": ""
+            },
+            "Thermal Conditions": {
+                "Atmosphere": "Ar",
+                "Cooling Rate": "FC",
+                "Duration": 0,
+                "Pressure": 0,
+                "Temperature": 0
+            }
+        },
+        "Sample ID": {
+            "Prod. Batch": "",
+            "Production Location & Physical Sample Number": "",
+            "Unique Code": "",
+            "VAM or DED": "",
+            "Year & Month": ""
+        }
+    }
+}

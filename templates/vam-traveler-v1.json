@@ -1,0 +1,61 @@
+{
+    "cartaMetadata": {
+        "updated": "",
+        "schemaUsed": "vam-traveler-v1.json"
+    },
+    "data": {
+        "Material Composition": {
+            "Al": 0,
+            "Co": 0,
+            "Cr": 0,
+            "Fe": 0,
+            "Ni": 0,
+            "Sum": "0",
+            "V": 0
+        },
+        "Sample ID": {
+            "Prod. Batch": "",
+            "Production Location & Physical Sample Number": "",
+            "Unique Code": "",
+            "VAM or DED": "",
+            "Year & Month": ""
+        },
+        "Tasks": {
+            "Arc Melting": {
+                "Operation Sequence": 20,
+                "Completed By": "",
+                "Date": "",
+                "Time Spent": "",
+                "taskcomplete": false
+            },
+            "Homogenization": {
+                "Operation Sequence": 30,
+                "Completed By": "",
+                "Date": "",
+                "Time Spent": "",
+                "taskcomplete": false
+            },
+            "Machining": {
+                "Operation Sequence": 50,
+                "Completed By": "",
+                "Date": "",
+                "Time Spent": "",
+                "taskcomplete": false
+            },
+            "Mechanical Processing": {
+                "Operation Sequence": 40,
+                "Completed By": "",
+                "Date": "",
+                "Time Spent": "",
+                "taskcomplete": false
+            },
+            "Weighing": {
+                "Operation Sequence": 10,
+                "Completed By": "",
+                "Date": "",
+                "Time Spent": "",
+                "taskcomplete": false
+            }
+        }
+    }
+}
